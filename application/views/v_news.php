@@ -2,7 +2,7 @@
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>Data yang ada pada database</h2>   
+                     <h2>Data pada database</h2>   
                     </div>
 
                     <style>
